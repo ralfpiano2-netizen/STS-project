@@ -30,8 +30,7 @@ downloads/
   Recovery-Tracking-Tool.xlsx            tracking tool on its own
   Preliminary-Cost-Assessment.xlsx       cost assessment on its own
 logo/
-  film-recovery-toolkit-logo.svg / .png  app logo
-  film-recovery-toolkit-mark-green.svg   logo mark without the tile
+  ecofilm-recovery-logo.svg / .png  app logo (green parcel with a leaf sprout)
 ```
 
 ## Limits
